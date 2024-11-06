@@ -1,0 +1,8 @@
+SM02B
+cover:
+https://www.mouser.de/ProductDetail/JST-Automotive/ULHCB-02V-A-KHF?qs=T%252BzbugeAwjhI4X3b3XHwGQ%3D%3D
+plug:
+https://www.mouser.de/ProductDetail/JST-Automotive/ULHRR-02V-1A1-KHF?qs=T%252BzbugeAwjiQ%2FmL4aQBwKg%3D%3D
+socket:
+https://www.mouser.de/ProductDetail/JST-Automotive/SM02B-ULHK-1TA1-ETBHF?qs=T%252BzbugeAwjiem18tnUBodQ%3D%3D
+
