@@ -1,0 +1,73 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "27e8b77d-2ee5-48e8-9c8f-003f8832b09b")
+	(paper "A3")
+	(title_block
+		(title "5x5 Clock Panel")
+		(date "2024-10-31")
+		(rev "1")
+	)
+	(lib_symbols)
+	(hierarchical_label "Driver_SCL"
+		(shape input)
+		(at 34.29 53.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3782a653-28d2-499a-b1c9-5d21fdb4de88")
+	)
+	(hierarchical_label "Power_5V"
+		(shape input)
+		(at 34.29 40.64 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b1a64a02-1c45-4e63-8a17-a3be9570516a")
+	)
+	(hierarchical_label "Driver1_EN"
+		(shape input)
+		(at 34.29 55.88 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bcdb369d-8e6d-42e9-8aeb-930aef26b7ee")
+	)
+	(hierarchical_label "Driver_SDA"
+		(shape input)
+		(at 34.29 50.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d8a5ac7f-22d8-4626-a9ba-88098ce6bda4")
+	)
+	(hierarchical_label "Power_GND"
+		(shape input)
+		(at 34.29 43.18 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e21c3791-b5ed-4276-92b6-a3d4f8fb51e6")
+	)
+)

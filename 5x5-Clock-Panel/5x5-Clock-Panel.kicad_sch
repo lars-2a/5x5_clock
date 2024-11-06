@@ -1,0 +1,1258 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "0ace032a-2a90-4649-ba93-c5c374ac8e6f")
+	(paper "A3")
+	(title_block
+		(title "5x5 Clock Panel")
+		(date "2024-10-31")
+		(rev "1")
+	)
+	(lib_symbols)
+	(junction
+		(at 243.84 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "03fb31e4-b0b8-43f5-9717-0e00c3ba7e64")
+	)
+	(junction
+		(at 195.58 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c19d365-0dce-4ee6-bfd4-cba580133868")
+	)
+	(junction
+		(at 193.04 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4a4ce816-dc4a-48c6-9a47-df1c37ecbe90")
+	)
+	(junction
+		(at 243.84 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "55fb0668-19af-4a04-9388-5f405a578456")
+	)
+	(junction
+		(at 251.46 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7068aece-ea68-49f8-b21e-de04617b9262")
+	)
+	(junction
+		(at 132.08 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88f76131-21d3-4592-a649-7df7b60fe488")
+	)
+	(junction
+		(at 241.3 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8d122351-86e4-405e-ac8b-10bdd85ba6fe")
+	)
+	(junction
+		(at 241.3 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bd231ef5-f660-4fcd-b311-ceb558a9acb2")
+	)
+	(junction
+		(at 251.46 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be20a66d-114c-4a19-92fe-3bacd234dc0f")
+	)
+	(junction
+		(at 134.62 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c364d438-0347-4a95-afd3-ae8ca2f51f4e")
+	)
+	(junction
+		(at 248.92 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c50bbcf8-272b-4342-bb53-39052da9f603")
+	)
+	(junction
+		(at 248.92 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d977593d-267e-44e5-97c3-91b4033f5700")
+	)
+	(wire
+		(pts
+			(xy 248.92 107.95) (xy 248.92 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0037abe1-d22b-41e7-bdf5-9fd8293ed1f4")
+	)
+	(wire
+		(pts
+			(xy 193.04 107.95) (xy 193.04 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "044c5560-646a-4025-947f-3760688877b7")
+	)
+	(wire
+		(pts
+			(xy 128.27 113.03) (xy 152.4 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "087c38f2-9aed-4a8a-a684-da458bb76959")
+	)
+	(wire
+		(pts
+			(xy 199.39 107.95) (xy 193.04 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "090a033a-cbf4-4037-a8dc-098bf08211d0")
+	)
+	(wire
+		(pts
+			(xy 236.22 142.24) (xy 256.54 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0adbaca9-983b-47d5-a4f0-a34335bd9fd9")
+	)
+	(wire
+		(pts
+			(xy 241.3 165.1) (xy 256.54 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b203ae2-633f-486e-8da9-7c7220a0d481")
+	)
+	(wire
+		(pts
+			(xy 190.5 111.76) (xy 199.39 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d50264f-9cf4-4441-b8a5-b10f464dc6af")
+	)
+	(wire
+		(pts
+			(xy 248.92 158.75) (xy 256.54 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1985b8a1-1883-4e8c-8adf-262249bcac82")
+	)
+	(wire
+		(pts
+			(xy 243.84 162.56) (xy 256.54 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "209f39eb-90e9-4d45-af42-735d5ccbd0ac")
+	)
+	(wire
+		(pts
+			(xy 251.46 130.81) (xy 256.54 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27f2b5a9-f332-4bd0-8501-ba9e08ee2237")
+	)
+	(wire
+		(pts
+			(xy 128.27 115.57) (xy 152.4 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bfc228e-1e4a-494f-9fd8-d782a2ce5906")
+	)
+	(wire
+		(pts
+			(xy 236.22 119.38) (xy 236.22 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e048d36-8253-4410-9e97-045abad20731")
+	)
+	(wire
+		(pts
+			(xy 233.68 121.92) (xy 233.68 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39038b23-9b76-444d-ba61-6e42c54e8524")
+	)
+	(wire
+		(pts
+			(xy 187.96 111.76) (xy 175.26 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "396e5f2e-28d3-4e9e-a892-73f5e3037500")
+	)
+	(wire
+		(pts
+			(xy 195.58 105.41) (xy 199.39 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f613414-9659-4fcd-8163-f2e39552e558")
+	)
+	(wire
+		(pts
+			(xy 128.27 107.95) (xy 134.62 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4450df3d-c3b4-44d0-8b3a-c31f941e9d48")
+	)
+	(wire
+		(pts
+			(xy 187.96 114.3) (xy 187.96 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44effb7b-e216-4c78-97b4-e46f528cc831")
+	)
+	(wire
+		(pts
+			(xy 195.58 93.98) (xy 251.46 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4835fa7d-83be-4b4c-a711-f7fd013e5134")
+	)
+	(wire
+		(pts
+			(xy 128.27 105.41) (xy 132.08 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bb98bff-f4c5-41d2-9e67-ea987b0f2bba")
+	)
+	(wire
+		(pts
+			(xy 134.62 96.52) (xy 134.62 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f6d3b88-0db7-4df3-bcc2-9bf03996396c")
+	)
+	(wire
+		(pts
+			(xy 222.25 121.92) (xy 233.68 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "515f4a7a-cc73-453f-851a-7c9c5ef33382")
+	)
+	(wire
+		(pts
+			(xy 248.92 133.35) (xy 248.92 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52bb68ab-ef32-4b18-b4fc-965271b62738")
+	)
+	(wire
+		(pts
+			(xy 248.92 96.52) (xy 193.04 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5665a3fe-bce9-4eca-8064-6e2001ea6667")
+	)
+	(wire
+		(pts
+			(xy 128.27 120.65) (xy 152.4 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "594405cc-6bf7-4073-ac35-ada077927dfe")
+	)
+	(wire
+		(pts
+			(xy 222.25 114.3) (xy 241.3 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c214493-b570-41ce-94c1-870a2c46b645")
+	)
+	(wire
+		(pts
+			(xy 190.5 109.22) (xy 190.5 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6037e5bd-5d40-4e8a-a54f-4ce137d0b4db")
+	)
+	(wire
+		(pts
+			(xy 134.62 107.95) (xy 152.4 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61034d94-fd11-4fe4-b06a-aefb02ce570a")
+	)
+	(wire
+		(pts
+			(xy 195.58 93.98) (xy 195.58 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64e855a0-91ca-40bb-a023-2a788af64ce9")
+	)
+	(wire
+		(pts
+			(xy 256.54 107.95) (xy 248.92 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6969b137-8d98-44a0-a005-c38ab6d93334")
+	)
+	(wire
+		(pts
+			(xy 132.08 93.98) (xy 195.58 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "773e677b-8654-4dc1-bc92-647719a0f9b0")
+	)
+	(wire
+		(pts
+			(xy 175.26 109.22) (xy 190.5 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79c25809-a865-4968-bf3e-0ced2fa34ef9")
+	)
+	(wire
+		(pts
+			(xy 241.3 139.7) (xy 241.3 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d89a6cf-c390-43eb-bcb6-ecf777eae66b")
+	)
+	(wire
+		(pts
+			(xy 241.3 114.3) (xy 256.54 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8367f675-4882-42d3-9100-d90f1b9919ad")
+	)
+	(wire
+		(pts
+			(xy 222.25 116.84) (xy 256.54 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85673883-ab5f-453a-86ed-c2e70075f958")
+	)
+	(wire
+		(pts
+			(xy 222.25 119.38) (xy 236.22 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bb86c38-97c9-48c0-889d-f4f469bbb188")
+	)
+	(wire
+		(pts
+			(xy 251.46 105.41) (xy 251.46 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e0f9bf9-b0a9-4668-a39e-df6a88467c26")
+	)
+	(wire
+		(pts
+			(xy 222.25 111.76) (xy 243.84 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96b6489a-838e-4eb0-9f64-a2b4d5185ffd")
+	)
+	(wire
+		(pts
+			(xy 251.46 105.41) (xy 256.54 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ea78cec-20d8-4238-960c-3032db771881")
+	)
+	(wire
+		(pts
+			(xy 248.92 133.35) (xy 256.54 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fc8bce6-15fc-401e-bcee-02c5df7e4233")
+	)
+	(wire
+		(pts
+			(xy 241.3 139.7) (xy 256.54 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0eea0e6-650f-4c98-8510-b9dd37785194")
+	)
+	(wire
+		(pts
+			(xy 233.68 167.64) (xy 256.54 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1a3a28b-4c39-42f7-a99e-1772b42ba757")
+	)
+	(wire
+		(pts
+			(xy 251.46 93.98) (xy 251.46 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2ab47c8-f2bb-43fc-8b6a-041a19a5c22e")
+	)
+	(wire
+		(pts
+			(xy 251.46 156.21) (xy 256.54 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a92c4edb-e549-48a4-9123-318aa8adab3e")
+	)
+	(wire
+		(pts
+			(xy 128.27 118.11) (xy 152.4 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af0c77dd-8a98-43db-abf4-a350b459b5f2")
+	)
+	(wire
+		(pts
+			(xy 132.08 105.41) (xy 132.08 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0d2ab49-626c-47ad-9e44-59dce2b12acb")
+	)
+	(wire
+		(pts
+			(xy 243.84 111.76) (xy 256.54 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b13ab8dd-54f1-4a76-a7cd-e26e6b49c943")
+	)
+	(wire
+		(pts
+			(xy 199.39 114.3) (xy 187.96 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1ba56b3-0f94-4445-b76f-071dbe33a8a6")
+	)
+	(wire
+		(pts
+			(xy 251.46 130.81) (xy 251.46 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd28e42e-4a72-4e29-a26a-a3062f5f91fb")
+	)
+	(wire
+		(pts
+			(xy 243.84 137.16) (xy 243.84 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0a8b179-3b2e-421c-8815-8792cd6fc52c")
+	)
+	(wire
+		(pts
+			(xy 193.04 96.52) (xy 134.62 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2a0f456-ad07-438b-9755-7377c9116aed")
+	)
+	(wire
+		(pts
+			(xy 248.92 107.95) (xy 248.92 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db4145d9-268b-4668-8d87-1241f4697081")
+	)
+	(wire
+		(pts
+			(xy 243.84 137.16) (xy 243.84 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de7a564b-8019-45c2-9567-eab8d1959bf1")
+	)
+	(wire
+		(pts
+			(xy 132.08 105.41) (xy 152.4 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df02c891-0cfd-4d5d-b673-491c1c88c619")
+	)
+	(wire
+		(pts
+			(xy 241.3 114.3) (xy 241.3 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df65e85d-5db5-4d21-8e8b-a8e81d5b925b")
+	)
+	(wire
+		(pts
+			(xy 256.54 137.16) (xy 243.84 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eadf6c2d-1799-44c2-83fb-f314f0398b0b")
+	)
+	(text "LEDs mit max 15mA"
+		(exclude_from_sim no)
+		(at 339.344 112.776 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "88f42afc-ba35-4509-986e-f59ffcf9589c")
+	)
+	(sheet
+		(at 152.4 101.6)
+		(size 22.86 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0005dd52-86a7-4978-b57b-38b75a3c4079")
+		(property "Sheetname" "RS485 BUS"
+			(at 152.4 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RS485-BUS.kicad_sch"
+			(at 152.4 125.0446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Power_5V" input
+			(at 152.4 105.41 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "76d6117d-5b8b-4ea0-aa9c-a0547009eb62")
+		)
+		(pin "Power_GND" input
+			(at 152.4 107.95 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2ddd21b6-019b-4669-873f-fba73f12cdb8")
+		)
+		(pin "RS485_RX+" input
+			(at 152.4 113.03 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "88ef92a1-3a37-4180-b087-5738e27edaf6")
+		)
+		(pin "RS485_RX-" input
+			(at 152.4 115.57 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "49020934-3d4f-4c42-852c-e67f977cb5f1")
+		)
+		(pin "RS485_TX+" input
+			(at 152.4 118.11 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9588382e-0fde-4ddd-bf67-04907210ba87")
+		)
+		(pin "RS485_TX-" input
+			(at 152.4 120.65 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7cf9f7fc-5aec-40a0-9603-903a6a3b08a2")
+		)
+		(pin "UART_RX" output
+			(at 175.26 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "95c34665-c74c-4daa-a4e6-286206974ee1")
+		)
+		(pin "UART_TX" output
+			(at 175.26 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "51b7c0e5-d9eb-4df3-98ad-51f335e8f1ce")
+		)
+		(instances
+			(project "5x5-Clock-Panel"
+				(path "/0ace032a-2a90-4649-ba93-c5c374ac8e6f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 256.54 152.4)
+		(size 22.86 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "85574371-8428-4a38-9374-07c5f2b925d5")
+		(property "Sheetname" "LED Driver 3"
+			(at 256.54 151.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED_Driver_3.kicad_sch"
+			(at 256.54 170.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Driver_SDA" input
+			(at 256.54 162.56 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6ad73aca-21ee-43f4-b216-6209902e9025")
+		)
+		(pin "Power_5V" input
+			(at 256.54 156.21 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "706212f8-eb59-4756-8443-6673e5d38039")
+		)
+		(pin "Driver_SCL" input
+			(at 256.54 165.1 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "bcd30bc5-1765-4de3-ab4b-5165e2a6c195")
+		)
+		(pin "Power_GND" input
+			(at 256.54 158.75 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "89146bbc-dde2-44c3-8d67-23014105e20d")
+		)
+		(pin "Driver3_EN" input
+			(at 256.54 167.64 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7562f693-725f-4d50-8605-30f34ab67e7c")
+		)
+		(instances
+			(project "5x5-Clock-Panel"
+				(path "/0ace032a-2a90-4649-ba93-c5c374ac8e6f"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 199.39 101.6)
+		(size 22.86 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "908b72ff-cad5-4724-8836-0c5b94faacc0")
+		(property "Sheetname" "Microcontroller"
+			(at 199.39 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Microcontroller.kicad_sch"
+			(at 199.39 125.0446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Power_5V" input
+			(at 199.39 105.41 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a854dc64-5e5f-42b5-98cd-3dc973fbf16c")
+		)
+		(pin "Power_GND" input
+			(at 199.39 107.95 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a48732ff-9fa1-45a4-a269-f290dafffd1d")
+		)
+		(pin "UART_RX" input
+			(at 199.39 111.76 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a6a2d759-a4d1-4554-884b-a4edda8a3b9f")
+		)
+		(pin "UART_TX" input
+			(at 199.39 114.3 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "04fc1cfc-3f17-4736-a228-9d9248a2c5f8")
+		)
+		(pin "Driver2_EN" output
+			(at 222.25 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0b389f5f-d7dd-40b2-81a1-555d2da9bdc6")
+		)
+		(pin "Driver3_EN" output
+			(at 222.25 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "17f4d297-616c-453c-b1fc-049646a70e3e")
+		)
+		(pin "Driver_SDA" output
+			(at 222.25 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "cd870dd0-bace-487e-8332-ff47846c2b85")
+		)
+		(pin "Driver1_EN" output
+			(at 222.25 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2d1f90a9-ff4c-4b20-8a94-e0f471bbd79c")
+		)
+		(pin "Driver_SCL" output
+			(at 222.25 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d254cad0-c1a4-4818-9ffb-54c32dabb2df")
+		)
+		(instances
+			(project "5x5-Clock-Panel"
+				(path "/0ace032a-2a90-4649-ba93-c5c374ac8e6f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 256.54 101.6)
+		(size 22.86 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ab683e54-8239-4926-a42b-f4a2f09516a5")
+		(property "Sheetname" "LED Driver 1"
+			(at 256.54 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED_Driver_1.kicad_sch"
+			(at 256.54 119.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Power_GND" input
+			(at 256.54 107.95 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f3a8ab58-bf1b-4dda-a6ea-5c1792841cc3")
+		)
+		(pin "Power_5V" input
+			(at 256.54 105.41 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3de48038-9104-4e8c-9b73-0002215b182c")
+		)
+		(pin "Driver_SCL" input
+			(at 256.54 114.3 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "0f300746-5fc1-442a-9582-056471f50992")
+		)
+		(pin "Driver1_EN" input
+			(at 256.54 116.84 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f06f2da2-9dbb-4ed9-9852-1877aa1de9e0")
+		)
+		(pin "Driver_SDA" input
+			(at 256.54 111.76 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6954df36-2cac-4d94-8fa9-33f03ba9ff37")
+		)
+		(instances
+			(project "5x5-Clock-Panel"
+				(path "/0ace032a-2a90-4649-ba93-c5c374ac8e6f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 107.95 101.6)
+		(size 20.32 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e387f081-fa58-4a5e-ad2e-5b3203d5d7b7")
+		(property "Sheetname" "Power and Input"
+			(at 107.95 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_and_input.kicad_sch"
+			(at 107.95 125.0446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Power_GND" output
+			(at 128.27 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7350bf91-1e90-4ac7-be7c-29258d9858e8")
+		)
+		(pin "Power_5V" output
+			(at 128.27 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "959a159e-019b-4fd9-9c50-f89314e53167")
+		)
+		(pin "RS485_RX+" output
+			(at 128.27 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "92fa9037-e91b-46a7-bb1e-a26d2e425224")
+		)
+		(pin "RS485_RX-" output
+			(at 128.27 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "217f7c88-099b-4541-a3fe-4a978dd6c23e")
+		)
+		(pin "RS485_TX-" output
+			(at 128.27 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "514434af-80a8-4276-9ee8-8f68c204827d")
+		)
+		(pin "RS485_TX+" output
+			(at 128.27 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "42350880-96ad-4440-ae8f-c8caf30df5bd")
+		)
+		(instances
+			(project "5x5-Clock-Panel"
+				(path "/0ace032a-2a90-4649-ba93-c5c374ac8e6f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 256.54 127)
+		(size 22.86 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f84ec545-4a5b-45d0-bc48-ea127842aea5")
+		(property "Sheetname" "LED Driver 2"
+			(at 256.54 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED_Driver_2.kicad_sch"
+			(at 256.54 145.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Driver2_EN" input
+			(at 256.54 142.24 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6fe614bc-64e8-4796-bd03-cbc5bdde04f4")
+		)
+		(pin "Driver_SCL" input
+			(at 256.54 139.7 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e21cb1b4-7827-4cc3-9e79-e4bce6cf5ea6")
+		)
+		(pin "Power_GND" input
+			(at 256.54 133.35 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "258b74df-6551-4f13-a7e4-26b690a84ed0")
+		)
+		(pin "Driver_SDA" input
+			(at 256.54 137.16 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2ca37e3e-cb35-48ad-9bbb-8b8061281e92")
+		)
+		(pin "Power_5V" input
+			(at 256.54 130.81 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6c4ed71a-1d4a-4495-a6de-4ff0d561938a")
+		)
+		(instances
+			(project "5x5-Clock-Panel"
+				(path "/0ace032a-2a90-4649-ba93-c5c374ac8e6f"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

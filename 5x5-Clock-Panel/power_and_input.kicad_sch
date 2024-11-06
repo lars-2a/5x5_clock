@@ -1,0 +1,85 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "215933f4-ef29-4e0a-8b63-d8d4b7b2b7dd")
+	(paper "A3")
+	(title_block
+		(title "5x5 Clock Panel")
+		(date "2024-10-31")
+		(rev "1")
+	)
+	(lib_symbols)
+	(hierarchical_label "RS485_TX-"
+		(shape output)
+		(at 355.6 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1e06f84b-953b-48e5-8c5e-832943624a0f")
+	)
+	(hierarchical_label "Power_GND"
+		(shape output)
+		(at 355.6 55.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3e0d0144-0141-48b0-83e0-a59de039b5b0")
+	)
+	(hierarchical_label "Power_5V"
+		(shape output)
+		(at 355.6 52.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6b6b1c62-e3e4-42e9-868e-0ca94b1205fd")
+	)
+	(hierarchical_label "RS485_TX+"
+		(shape output)
+		(at 355.6 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7570409f-4146-4c43-aaae-4361eaf2b54e")
+	)
+	(hierarchical_label "RS485_RX-"
+		(shape output)
+		(at 355.6 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "87283738-2c65-42b2-ad9a-35cc9013e58c")
+	)
+	(hierarchical_label "RS485_RX+"
+		(shape output)
+		(at 355.6 66.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c0607a00-436a-413c-b4d6-0a792ea832b2")
+	)
+)
