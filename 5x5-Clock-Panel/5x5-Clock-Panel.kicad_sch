@@ -632,15 +632,48 @@
 		)
 		(uuid "eadf6c2d-1799-44c2-83fb-f314f0398b0b")
 	)
+	(text "LED 0-8 (9 LEDs)"
+		(exclude_from_sim no)
+		(at 284.734 103.632 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "0293c06a-1581-4014-9760-73210dac3538")
+	)
 	(text "LEDs mit max 15mA"
 		(exclude_from_sim no)
-		(at 339.344 112.776 0)
+		(at 359.918 129.032 0)
 		(effects
 			(font
 				(size 2.54 2.54)
 			)
 		)
 		(uuid "88f42afc-ba35-4509-986e-f59ffcf9589c")
+	)
+	(text "LED 18-24 (7 LEDs)\n"
+		(exclude_from_sim no)
+		(at 284.734 155.448 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "9ad22227-f8b6-4a4b-b252-f61954e6537a")
+	)
+	(text "LED 9-17 (9 LEDs)"
+		(exclude_from_sim no)
+		(at 284.734 129.286 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "df7d4b99-a11d-47ae-802c-6ad0d1106123")
 	)
 	(sheet
 		(at 152.4 101.6)
